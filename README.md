@@ -1,5 +1,5 @@
 # gltf-converter
-Convert glb to gltf or convert gltf to glb converter. GLTF is widely used json format along with .bin mesh file, with attached  images in webp format
+Convert glb to gltf or convert gltf to glb converter. GLTF is widely used json format along with .bin (mesh file), with attached  images in webp format
 
 
 # How to use
@@ -26,4 +26,10 @@ npm install
 - Then run `node` to excute the function
 ```bash
 node converter.js
+```
+
+
+# Special thanks to `najadojo` for providing the tools and code
+```
+https://github.com/najadojo/gltf-import-export
 ```
