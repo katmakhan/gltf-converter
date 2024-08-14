@@ -18,9 +18,12 @@ const outputGlb = 'path/to/your/output.glb';
 convertGlbToGltf(inputGlb, outputGltf);
 // convertGltfToGlb(outputGltf, outputGlb);
 ```
-- Cd into the folder
-- run 
-
+- Cd into the folder `gltf-converter`, main folder
+- run `npm install` to install the packages
+```bash
+npm install
+```
+- Then run `node` to excute the function
 ```bash
 node converter.js
 ```
