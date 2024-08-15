@@ -29,7 +29,9 @@ node converter.js
 ```
 
 
-# Special thanks to `najadojo` for providing the tools and code
+### Special thanks to [najadojo](https://github.com/najadojo) 
+- Checkout his github profile
+- He made the code simple and accessible
 ```
 https://github.com/najadojo/gltf-import-export
 ```
